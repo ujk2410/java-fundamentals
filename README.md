@@ -1,5 +1,5 @@
 # Fundamentals Project
-## Fundamentals Concepts
+## Fundamental Concepts
 
 *Java application to cover core fundamental concepts.*
 
